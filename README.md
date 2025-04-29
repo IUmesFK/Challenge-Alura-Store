@@ -40,3 +40,8 @@ pip install pandas matplotlib
 * Se calculo el promedio de calificaciones por tienda.
 * Se visualizan los datos mediante graficos de barras, pastel y de tramos.
 
+# Ejecutando el proyecto
+* Abre el archivo `` en google colab
+* Ejecuta todas las celdas de código
+* Una vez ejecutadas todas las celdas, podras visualizar los distintos graficos con sus respectivos datos
+* Al final del archivo, habrá un informe final con una conclusión sobre que tienda debe de vender el señor Juan
