@@ -1,5 +1,8 @@
 # Alura Store: Analisis de eficiencia para dar una opción de venta.
 
+
+## en desarrollo
+
 # Descripción:
 
 El objetivo de este proyecto es ayudar al señor Juan a tomar una decisión de venta. Para ello, se nos entregan 4 bases de datos correspondientes a 4 tiendas, 
