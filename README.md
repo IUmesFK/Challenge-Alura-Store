@@ -1,8 +1,6 @@
 # Alura Store: Analisis de eficiencia para dar una opción de venta.
 
 
-## en desarrollo
-
 # Descripción:
 
 El objetivo de este proyecto es ayudar al señor Juan a tomar una decisión de venta. Para ello, se nos entregan 4 bases de datos correspondientes a 4 tiendas, 
@@ -41,7 +39,7 @@ pip install pandas matplotlib
 * Se visualizan los datos mediante graficos de barras, pastel y de tramos.
 
 # Ejecutando el proyecto
-* Abre el archivo `` en google colab
+* Abre el archivo `challenge_AluraStore.ipynb` en google colab
 * Ejecuta todas las celdas de código
 * Una vez ejecutadas todas las celdas, podras visualizar los distintos graficos con sus respectivos datos
 * Al final del archivo, habrá un informe final con una conclusión sobre que tienda debe de vender el señor Juan
