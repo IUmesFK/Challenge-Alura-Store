@@ -28,7 +28,7 @@ que seran usadas para analizar aspectos como el ingreso total por tienda o las c
 git clone https://github.com/IUmesFK/Challenge-Alura-Store.git
 ```
 
-2. Clonar el repositorioInstalar las dependencias
+2. Instalar las dependencias
 
 ```bash
 pip install pandas matplotlib
